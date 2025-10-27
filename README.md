@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+#Hi, I'm Annie
 
 🎓 **Computer Science Graduate** passionate about software systems, artificial intelligence, and computer graphics.
 
