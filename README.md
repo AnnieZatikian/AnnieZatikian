@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**AnnieZatikian/AnnieZatikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** passionate about software systems, artificial intelligence, and computer graphics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Featured Projects
+
+### 🧩 [3D Software Rasteriser](https://github.com/AnnieZatikian/graphics-3D-renderer)
+A 3D rendering engine built in C++ implementing transformations, projection, and lighting. Demonstrates understanding of computer graphics and mathematical transformations.
+
+### 🎨 [Art Classifier](https://github.com/AnnieZatikian/art-style-recognition)
+A deep learning model for recognizing art styles using Python and TensorFlow.
+
+### 🧠 [Mini Language Interpreter](https://github.com/AnnieZatikian/Turing-complete-interpreter)
+A Turing-complete mini language with arithmetic, boolean logic, and control flow.
+
+---
+
+## 🧰 Skills
+**Programming:** Python, C, C++, Bash, Html, Js, css, java
+**AI & ML:** TensorFlow, Scikit-learn, NumPy, Pandas  
+**Graphics:** Win32 API, 3D Rendering, Linear Algebra  
+**Tools:** Git, Visual Studio, Jupyter, Linux  
+
+---
+
+📫 [Email Me](mailto:anniezatikian272@gmail.com) | [GitHub](https://github.com/AnnieZatikian)
